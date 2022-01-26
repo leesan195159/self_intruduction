@@ -1,0 +1,56 @@
+.img__div {
+  display: flex;
+  justify-content: center;
+}
+.interest__img {
+  width: 300px;
+  height: 300px;
+  border-radius: 70%;
+  padding: 20px 0px;
+}
+
+.interest__p {
+  color: white;
+  font-size: 20px;
+}
+
+.interest__div2 {
+  padding-left: 550px;
+  padding-top: 50px;
+}
+
+.interest__img2 {
+  color: green;
+  padding: 20px 0px;
+}
+.introduce__h1 {
+  color: white;
+  text-align: center;
+  padding-top: 200px;
+  padding-bottom: 50px;
+  font-size: 50px;
+}
+.img__div2 {
+  display: flex;
+  justify-content: center;
+}
+.interest__img3 {
+  position: relative;
+  width: 100%;
+}
+.last__p {
+  position: absolute;
+  color: white;
+  font-size: 30px;
+  width: 54%;
+  padding-left: 700px;
+  padding-top: 200px;
+}
+.last__p2 {
+  position: absolute;
+  color: white;
+  font-size: 30px;
+  width: 54%;
+  padding-left: 700px;
+  padding-top: 300px;
+}
